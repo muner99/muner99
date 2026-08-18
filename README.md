@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muner Yahia
+# 👋 Hello, I'm Muner Yahia
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Frontend+Developer;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+%26+User-Friendly+Web+Experiences;Always+Learning%2C+Building%2C+and+Improving+%F0%9F%9A%80" alt="Typing SVG" />
@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **Muner Yahia**, a **Software Engineer and Frontend Developer from Sudan 🇸🇩**, passionate about creating modern, responsive, and accessible web applications.
+I'm **Muner Yahia**, a **Software Engineer and Frontend Developer **, passionate about creating modern, responsive, and accessible web applications.
 
-I specialize in building clean and intuitive user interfaces using technologies such as **React.js, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS**.
+I specialize in building clean and intuitive user interfaces using technologies such as **Html, Css, JavaScript, Typeccript, TailwindCss,Reac.Js**.
 
 I'm passionate about turning ideas into real-world products, exploring emerging technologies, and continuously improving my engineering skills.
 
@@ -33,7 +33,6 @@ My long-term goal is to become a **well-rounded Full-Stack Developer** capable o
 ## 🚀 What I'm Currently Doing
 
 * 🔭 Building and experimenting with **modern frontend applications**
-* 🌱 Deepening my knowledge of **React.js, TypeScript, and modern web architecture**
 * 🧩 Improving my understanding of **software engineering principles and best practices**
 * 🚀 Working toward becoming a **Full-Stack Developer**
 * 🤝 Open to collaborating on interesting **web development and open-source projects**
@@ -88,8 +87,8 @@ My long-term goal is to become a **well-rounded Full-Stack Developer** capable o
 ## 🌍 A Little More About Me
 
 * 🇸🇩 Proudly from **Sudan**
-* 🗣️ **Arabic** is my first language
-* 🌎 **English** is my second language
+* 🗣️ **Arabic** My native Language
+* 🌎 **English** My Second Is  language
 * 💻 Passionate about software development
 * 🚀 Always looking for opportunities to learn and build
 * 🤝 Open to connecting with developers and collaborating on meaningful projects
