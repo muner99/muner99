@@ -1,27 +1,31 @@
 ## Hey 👋, I'm Muner Yahia!
 
-I’m a **Software Engineer and Frontend Developer** from 🇸🇩 **Sudan**. I enjoy building modern, responsive, and user-friendly web applications using **HTML, CSS, JavaScript, React.js, TypeScript, and Tailwind CSS**.
+<a href='YOUR_LINKEDIN_URL'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <a href='YOUR_TWITTER_URL'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a> <a href='YOUR_GITHUB_URL'><img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='18px'/></a>
 
-I’m passionate about learning new technologies, improving my development skills, and turning ideas into real-world web experiences. 🚀
+I am a **Software Engineer and Frontend Developer** from 🇸🇩 **Sudan**. I specialize in building modern, responsive, and user-friendly web applications using **HTML, CSS, JavaScript, Tailwind CSS, React.js, and TypeScript**.
 
-Currently, I’m focused on growing as a **Frontend Developer** while working toward my goal of becoming a **Full-Stack Developer**. 🌐💻
+I enjoy exploring new technologies 💻 and using them to build useful and creative web experiences 🛠️. I’m continuously improving my skills as a developer and working toward my goal of becoming a **Full-Stack Developer** 🚀.
 
 <br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
-* 💻   I’m a **Frontend Developer / Software Engineer**
+* 🔭   I’m currently working on **Frontend Web Development projects**
+* 🌱   I’m currently learning and improving my skills in **React.js, TypeScript, and modern web development**
+* 🚀   My goal is to become a **Full-Stack Developer**
+* 👨🏻‍💻   Most of my projects are available on [GitHub](YOUR_GITHUB_URL)
+* 💬   Ask me about **Frontend Development, React.js, JavaScript, TypeScript, HTML, CSS, or Tailwind CSS**
+* 🤝   I’m open to collaborating on interesting **web development projects**
+* 📫   Feel free to connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
 * 🇸🇩   I’m from **Sudan**
-* 🌱   I’m currently improving my skills in **React.js, TypeScript, and modern frontend development**
-* 🚀   I’m working toward becoming a **Full-Stack Developer**
-* 🎨   I enjoy building clean, responsive, and user-friendly interfaces
-* 🧩   I love solving problems and learning new technologies
 * 🗣️   **Arabic** is my first language, and **English** is my second language
-* 👨🏻‍💻   Most of my projects are available on **GitHub**
-* 🤝   I’m open to collaborating on interesting web development projects
-* 💬   Feel free to ask me about frontend development and web technologies
+* 💻   I’m passionate about creating clean, responsive, and user-friendly interfaces
+* 📚   I’m always learning and improving my software engineering skills
 
-<br/>
+<br>
 
 ### 🔨 Languages and Tools:
 
@@ -50,38 +54,50 @@ Currently, I’m focused on growing as a **Frontend Developer** while working to
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" alt="Git" height="42px"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
-<img align="left" alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" align="left" alt="GitHub" height="42px"/>
 </a>
 
-<br/>
-<br/>
+<br>
+<br>
 
-### 📊 GitHub Stats
+### 📊 Github Stats
 
-![Muner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true)
+<a href='YOUR_GITHUB_STATS_REPOSITORY'>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true)
 
-<br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
 
-### 🚀 My Goal
+</a>
 
-I’m continuously learning and building projects to become a stronger developer.
+<br>
 
-**My current journey:**
+### 🛠️ My Projects
 
-`Frontend Developer` → `Advanced Frontend Engineer` → `Full-Stack Developer` 🚀
+<a href="YOUR_PROJECT_1_URL" target="_blank">
+<img alt="project1" src="./projects/project1.svg" height="68" align="left">
+</a>
 
-I’m excited to keep learning, building, and contributing to the developer community.
+<a href="YOUR_PROJECT_2_URL" target="_blank">
+<img alt="project2" src="./projects/project2.svg" height="68" align="left">
+</a>
 
-<br/>
+<a href="YOUR_PROJECT_3_URL" target="_blank">
+<img alt="project3" src="./projects/project3.svg" height="68" align="left">
+</a>
 
-### 🤝 Let's Connect
+<a href="YOUR_PROJECT_4_URL" target="_blank">
+<img alt="project4" src="./projects/project4.svg" height="68" align="left">
+</a>
 
-If you're interested in web development, collaboration, or just want to connect, feel free to reach out!
+<a href="YOUR_PROJECT_5_URL" target="_blank">
+<img alt="project5" src="./projects/project5.svg" height="68" align="left">
+</a>
 
-**Thanks for visiting my profile! 👋**
+<a href="YOUR_PROJECT_6_URL" target="_blank">
+<img alt="project6" src="./projects/project6.svg" height="68" align="left">
+</a>
