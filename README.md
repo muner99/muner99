@@ -1,64 +1,138 @@
-## Hey 👋, I'm Muner Yahia!
+# 👋 Hi, I'm Muner Yahia
 
-<a href='YOUR_LINKEDIN_URL'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <a href='YOUR_TWITTER_URL'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a> <a href='YOUR_GITHUB_URL'><img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='18px'/></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Frontend+Developer;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+%26+User-Friendly+Web+Experiences;Always+Learning%2C+Building%2C+and+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-I am a **Software Engineer and Frontend Developer** from 🇸🇩 **Sudan**. I specialize in building modern, responsive, and user-friendly web applications using **HTML, CSS, JavaScript, Tailwind CSS, React.js, and TypeScript**.
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-I enjoy exploring new technologies 💻 and using them to build useful and creative web experiences 🛠️. I’m continuously improving my skills as a developer and working toward my goal of becoming a **Full-Stack Developer** 🚀.
+---
 
-<br/>
-<br/>
+## 👨‍💻 About Me
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+I'm **Muner Yahia**, a **Software Engineer and Frontend Developer from Sudan 🇸🇩**, passionate about creating modern, responsive, and accessible web applications.
 
-### 🧐 More About Me:
+I specialize in building clean and intuitive user interfaces using technologies such as **React.js, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS**.
 
-* 🔭   I’m currently working on **Frontend Web Development projects**
-* 🌱   I’m currently learning and improving my skills in **React.js, TypeScript, and modern web development**
-* 🚀   My goal is to become a **Full-Stack Developer**
-* 👨🏻‍💻   Most of my projects are available on [GitHub](YOUR_GITHUB_URL)
-* 💬   Ask me about **Frontend Development, React.js, JavaScript, TypeScript, HTML, CSS, or Tailwind CSS**
-* 🤝   I’m open to collaborating on interesting **web development projects**
-* 📫   Feel free to connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
-* 🇸🇩   I’m from **Sudan**
-* 🗣️   **Arabic** is my first language, and **English** is my second language
-* 💻   I’m passionate about creating clean, responsive, and user-friendly interfaces
-* 📚   I’m always learning and improving my software engineering skills
+I'm passionate about turning ideas into real-world products, exploring emerging technologies, and continuously improving my engineering skills.
 
-<br>
+My long-term goal is to become a **well-rounded Full-Stack Developer** capable of designing, building, and scaling complete web applications from frontend to backend.
 
-### 🔨 Languages and Tools:
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img align="left" alt="HTML5" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</a>
+## 🚀 What I'm Currently Doing
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img align="left" alt="CSS3" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</a>
+* 🔭 Building and experimenting with **modern frontend applications**
+* 🌱 Deepening my knowledge of **React.js, TypeScript, and modern web architecture**
+* 🧩 Improving my understanding of **software engineering principles and best practices**
+* 🚀 Working toward becoming a **Full-Stack Developer**
+* 🤝 Open to collaborating on interesting **web development and open-source projects**
+* 📚 Continuously learning new technologies and improving my development workflow
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img align="left" alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</a>
+---
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img align="left" alt="TypeScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</a>
+## 🛠️ Tech Stack
 
-<a href="https://react.dev/" target="_blank">
-<img align="left" alt="React.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</a>
+### 💻 Frontend
 
-<a href="https://tailwindcss.com/" target="_blank">
-<img align="left" alt="Tailwind CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Technologies"/>
+</p>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" alt="Git" height="42px"/>
-</a>
+### 🔧 Tools & Technologies
 
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" align="left" alt="GitHub" height="42px"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+</p>
 
+---
+
+## 📌 What I Care About
+
+```text
+✨ Clean & Maintainable Code
+🎨 Modern & Responsive UI
+⚡ Performance & Accessibility
+🧩 Reusable Components
+📱 Mobile-First Development
+🔐 Writing Reliable Software
+📚 Continuous Learning
+🤝 Collaboration & Open Source
+```
+
+---
+
+## 💡 Ask Me About
+
+* ⚛️ React.js
+* 🟦 TypeScript
+* 🟨 JavaScript
+* 🎨 Tailwind CSS
+* 🌐 HTML & CSS
+* 📱 Responsive Web Design
+* 🧩 Frontend Architecture
+* 💻 Modern Web Development
+
+---
+
+## 🌍 A Little More About Me
+
+* 🇸🇩 Proudly from **Sudan**
+* 🗣️ **Arabic** is my first language
+* 🌎 **English** is my second language
+* 💻 Passionate about software development
+* 🚀 Always looking for opportunities to learn and build
+* 🤝 Open to connecting with developers and collaborating on meaningful projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other developers, learning from the community, and collaborating on exciting projects.
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Build. Learn. Improve. Repeat. 🚀</b>
+</p>
+
+<p align="center">
+  <i>"Great software is built by people who never stop learning."</i>
+</p>
 
