@@ -11,9 +11,7 @@
   <a href="YOUR_GITHUB_URL">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
+
 </p>
 
 ---
@@ -56,33 +54,8 @@ My long-term goal is to become a **well-rounded Full-Stack Developer** capable o
 
 ---
 
-## 📌 What I Care About
 
-```text
-✨ Clean & Maintainable Code
-🎨 Modern & Responsive UI
-⚡ Performance & Accessibility
-🧩 Reusable Components
-📱 Mobile-First Development
-🔐 Writing Reliable Software
-📚 Continuous Learning
-🤝 Collaboration & Open Source
 ```
-
----
-
-## 💡 Ask Me About
-
-* ⚛️ React.js
-* 🟦 TypeScript
-* 🟨 JavaScript
-* 🎨 Tailwind CSS
-* 🌐 HTML & CSS
-* 📱 Responsive Web Design
-* 🧩 Frontend Architecture
-* 💻 Modern Web Development
-
----
 
 ## 🌍 A Little More About Me
 
