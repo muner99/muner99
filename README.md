@@ -61,43 +61,4 @@ I enjoy exploring new technologies 💻 and using them to build useful and creat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" align="left" alt="GitHub" height="42px"/>
 </a>
 
-<br>
-<br>
 
-### 📊 Github Stats
-
-<a href='YOUR_GITHUB_STATS_REPOSITORY'>
-
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-
-<a href="YOUR_PROJECT_1_URL" target="_blank">
-<img alt="project1" src="./projects/project1.svg" height="68" align="left">
-</a>
-
-<a href="YOUR_PROJECT_2_URL" target="_blank">
-<img alt="project2" src="./projects/project2.svg" height="68" align="left">
-</a>
-
-<a href="YOUR_PROJECT_3_URL" target="_blank">
-<img alt="project3" src="./projects/project3.svg" height="68" align="left">
-</a>
-
-<a href="YOUR_PROJECT_4_URL" target="_blank">
-<img alt="project4" src="./projects/project4.svg" height="68" align="left">
-</a>
-
-<a href="YOUR_PROJECT_5_URL" target="_blank">
-<img alt="project5" src="./projects/project5.svg" height="68" align="left">
-</a>
-
-<a href="YOUR_PROJECT_6_URL" target="_blank">
-<img alt="project6" src="./projects/project6.svg" height="68" align="left">
-</a>
