@@ -4,15 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Frontend+Developer;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+%26+User-Friendly+Web+Experiences;Always+Learning%2C+Building%2C+and+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 
-</p>
 
 ---
 
@@ -40,7 +32,7 @@ My long-term goal is to become a **well-rounded Full-Stack Developer** capable o
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend Developer
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Technologies"/>
