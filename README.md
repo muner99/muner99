@@ -55,24 +55,13 @@ I enjoy building clean, responsive, and user-friendly web applications.
 
 </p>
 
-
-
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=muner99&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
+    src="https://streak-stats.demolab.com?user=muner99&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muner99&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-
 </p>
 
 
