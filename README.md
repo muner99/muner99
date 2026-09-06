@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muner Yayha Mohamed</h1>
-
-<h3 align="center">
-  Software Engineering Student • Junior Frontend Developer
-</h3>
-
+<h1 align="center">Nice Too See You</h1>
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Junior+Frontend+Developer;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Learning%2C+Building%2C+and+Improving+Every+Day+%F0%9F%9A%80"
@@ -71,17 +66,7 @@ I enjoy building clean, responsive, and user-friendly web applications.
 
 </p>
 
----
 
-## 🌍 A Little More About Me
-
-- 🇸🇩 From Sudan
-- 🗣️ Native Arabic speaker
-- 🌎 Improving my English every day
-- 💻 Passionate about software development
-- 🤝 Open to learning and collaboration
-
----
 
 ## 📊 GitHub Stats
 
@@ -128,6 +113,3 @@ I enjoy building clean, responsive, and user-friendly web applications.
 
 <br/>
 
-<p align="center">
-  <b>💻 Build • Learn • Improve • Repeat 🚀</b>
-</p>
