@@ -49,7 +49,6 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 
   <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"/>
 
-
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
 
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
@@ -60,7 +59,11 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 
   <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google Antigravity"/>
 
+  <img src="https://skillicons.dev/icons?i=chrome" width="48" height="48" alt="Google Chrome"/>
 
+  <img src="https://skillicons.dev/icons?i=firefox" width="48" height="48" alt="Firefox"/>
+
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/>
 
 </p>
 
@@ -72,6 +75,18 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
   <img
     src="https://streak-stats.demolab.com?user=muner99&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muner99&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
   />
 </p>
 
