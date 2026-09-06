@@ -75,11 +75,6 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
   <!-- Firefox -->
   <img src="https://cdn.simpleicons.org/firefox" width="48" height="48" alt="Firefox"/>
 
-  <!-- VS Code Insiders -->
-  <img src="https://cdn.simpleicons.org/visualstudiocodeinsiders" width="48" height="48" alt="VS Code Insiders"/>
-
-  <!-- Adobe Acrobat -->
-  <img src="https://cdn.simpleicons.org/adobeacrobatreader" width="48" height="48" alt="Adobe Acrobat"/>
 
 </p>
 
