@@ -89,17 +89,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 
 ---
 
-## 📊 Top Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muner99&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
