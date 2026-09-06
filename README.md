@@ -34,7 +34,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=cpp,java,cs,html,css,tailwind,js,ts,react,git,github,vscode"
+    src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,github,vscode,cpp,java,cs"
     alt="Tech Stack"
   />
 </p>
@@ -49,7 +49,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 
   <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"/>
 
-  <img src="https://skillicons.dev/icons?i=netbeans" width="48" height="48" alt="NetBeans"/>
+  <img src="https://cdn.simpleicons.org/apache-netbeanside" width="48" height="48" alt="Apache NetBeans"/>
 
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
 
@@ -62,6 +62,10 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
   <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google Antigravity"/>
 
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code Insiders"/>
+
+  <img src="https://skillicons.dev/icons?i=chrome" width="48" height="48" alt="Google Chrome"/>
+
+  <img src="https://skillicons.dev/icons?i=firefox" width="48" height="48" alt="Firefox"/>
 
 </p>
 
