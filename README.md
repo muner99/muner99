@@ -21,7 +21,7 @@ I enjoy building clean, responsive, and user-friendly web applications.
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img
     src="https://skillicons.dev/icons?i=cpp,html,css,tailwind,js,ts,react,git,github,vscode"
     alt="Tech Stack"
@@ -75,18 +75,9 @@ I enjoy building clean, responsive, and user-friendly web applications.
 
 </p>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=muner99&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
----
 
 ## 🤝 Let's Connect
 
