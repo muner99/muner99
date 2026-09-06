@@ -59,9 +59,19 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 
   <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google Antigravity"/>
 
-
-
   <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/>
+
+  <!-- Google Chrome -->
+  <img src="https://skillicons.dev/icons?i=chrome" width="48" height="48" alt="Google Chrome"/>
+
+  <!-- Firefox -->
+  <img src="https://skillicons.dev/icons?i=firefox" width="48" height="48" alt="Firefox"/>
+
+  <!-- VS Code Insiders -->
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code Insiders"/>
+
+  <!-- Adobe Acrobat -->
+  <img src="https://cdn.simpleicons.org/adobeacrobatreader" width="48" height="48" alt="Adobe Acrobat"/>
 
 </p>
 
