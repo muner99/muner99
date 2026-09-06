@@ -1,22 +1,11 @@
-<h1 align="center">Nice Too See You</h1>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Junior+Frontend+Developer;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Learning%2C+Building%2C+and+Improving+Every+Day+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
-</p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muneryaha99">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/muner99">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Frontend+Developer;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+%26+User-Friendly+Web+Experiences;Always+Learning%2C+Building%2C+and+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
+
+
 
 ## 👨‍💻 About Me
 
