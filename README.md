@@ -66,9 +66,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
   <!-- Google Antigravity -->
   <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Google Antigravity"/>
 
-  <!-- Android Studio -->
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio"/>
-
+  
   <!-- Google Chrome -->
   <img src="https://cdn.simpleicons.org/googlechrome" width="48" height="48" alt="Google Chrome"/>
 
