@@ -31,20 +31,19 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
  
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,github,cpp&theme=dark"
+    src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,github,cpp&theme=dark"
     alt="Tech Stack"
   />
 </p>
----
+
  
-## 🌱 Currently Learning
+# Currently Learning
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-App%20Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-Hooks%20%26%20Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
----
+
  
 ## 🔧 Tools & Development Environment
  
@@ -64,7 +63,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
   <!-- Firefox -->
   <img src="https://cdn.simpleicons.org/firefox" width="48" height="48" alt="Firefox"/>
 </p>
----
+
  
 ## 📊 GitHub Stats
  
@@ -88,7 +87,6 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
     alt="GitHub Streak"
   />
 </p>
----
  
 ## 🤝 Let's Connect
  
