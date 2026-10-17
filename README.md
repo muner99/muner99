@@ -7,7 +7,7 @@ dme · MD
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Junior+Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+%26+User-Friendly+Web+Experiences;Always+Learning%2C+Building%2C+and+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 <br>
-## 👨‍💻 About Me
+👨‍💻 About Me
  
 <img
   align="right"
@@ -25,9 +25,9 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 🚀 My goal is to become a skilled **Full-Stack Developer** capable of building complete, scalable, and real-world applications from frontend to backend.
  
 <br clear="right"/>
----
+
  
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
  
 <p align="center">
   <img
@@ -37,7 +37,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 </p>
 
  
-# Currently Learning
+Currently Learning
  
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -45,7 +45,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 </p>
 
  
-## 🔧 Tools & Development Environment
+ 🔧 Tools & Development Environment
  
 <p align="center">
   <!-- VS Code -->
@@ -65,7 +65,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 </p>
 
  
-## 📊 GitHub Stats
+ 📊 GitHub Stats
  
 <p align="center">
   <img
@@ -79,7 +79,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
     alt="Top Languages"
   />
 </p>
-## 🔥 GitHub Streak
+🔥 GitHub Streak
  
 <p align="center">
   <img
@@ -88,7 +88,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
   />
 </p>
  
-## 🤝 Let's Connect
+  🤝 Let's Connect
  
 <p align="center">
   <a href="https://www.linkedin.com/in/muneryaha99">
