@@ -18,7 +18,7 @@ dme · MD
  
 I'm **Muner Yayha Mohamed**, a **Software Engineering Student** and **Junior Frontend Developer** passionate about building modern, responsive, and user-friendly web applications.
  
-I work with **HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, and Next.js**, and I use **Git & GitHub** to manage and collaborate on projects.
+I work with **HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), TypeScript, React.js  and I use **Git & GitHub** to manage and collaborate on projects.
  
 I enjoy turning ideas into clean and interactive web experiences while continuously improving my skills and learning new technologies.
  
@@ -31,7 +31,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
  
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,github,cpp&theme=dark"
+    src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,github"
     alt="Tech Stack"
   />
 </p>
