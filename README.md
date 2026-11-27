@@ -66,12 +66,10 @@ Currently Learning
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=muner99&<p align="center">
-  <!-- GitHub -->
-  <img src="https://cdn.simpleicons.org/github/888888" width="48" height="48" alt="GitHub"/>
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-  <!-- VS Code Insiders (green) -->
-  <img src="https://api.iconify.design/mdi:microsoft-visual-studio-code.svg?color=%2324bfa5" width="48" height="48" alt="VS Code Insiders"/>
+  <!-- GitHub -->
+  <img src="https://cdn.simpleicons.org/github/888888" width="48" height="48" alt="GitHub"/>
   <!-- Git -->
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
   <!-- Cursor -->
@@ -82,8 +80,6 @@ Currently Learning
   <img src="https://cdn.simpleicons.org/firefox" width="48" height="48" alt="Firefox"/>
   <!-- Claude -->
   <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude"/>
-  <!-- ChatGPT -->
-  <img src="https://api.iconify.design/ri:openai-fill.svg?color=%2374aa9c" width="48" height="48" alt="ChatGPT"/>
 </p>theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
