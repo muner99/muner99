@@ -53,6 +53,7 @@ Currently Learning
   <!-- Git -->
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
   <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="github"/>
 
   <img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor"/>
   <!-- Google Chrome -->
