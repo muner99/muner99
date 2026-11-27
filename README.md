@@ -31,7 +31,7 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
  
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,github"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,github"
     alt="Tech Stack"
   />
 </p>
