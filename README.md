@@ -65,7 +65,6 @@ Currently Learning
  
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=muner99&<p align="center">
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
   <!-- GitHub -->
@@ -80,8 +79,10 @@ Currently Learning
   <img src="https://cdn.simpleicons.org/firefox" width="48" height="48" alt="Firefox"/>
   <!-- Claude -->
   <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude"/>
+  
 </p>theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=muner99&<p align="center">
   />
 </p>
  
