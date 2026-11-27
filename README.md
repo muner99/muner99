@@ -46,23 +46,26 @@ Currently Learning
 
  
  🔧 Tools & Development Environment
- 
 <p align="center">
+  <!-- GitHub -->
+  <img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub"/>
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+  <!-- VS Code Insiders (green) -->
+  <img src="https://cdn.simpleicons.org/visualstudiocode/24bfa5" width="48" height="48" alt="VS Code Insiders"/>
   <!-- Git -->
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-  <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="github"/>
-
+  <!-- Cursor -->
   <img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor"/>
   <!-- Google Chrome -->
   <img src="https://cdn.simpleicons.org/googlechrome" width="48" height="48" alt="Google Chrome"/>
   <!-- Firefox -->
   <img src="https://cdn.simpleicons.org/firefox" width="48" height="48" alt="Firefox"/>
+  <!-- Claude -->
+  <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude"/>
+  <!-- ChatGPT / OpenAI -->
+  <img src="https://cdn.simpleicons.org/openai/74aa9c" width="48" height="48" alt="ChatGPT"/>
 </p>
-
- 
  📊 GitHub Stats
  
 <p align="center">
