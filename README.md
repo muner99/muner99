@@ -46,8 +46,6 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
 <p align="center">
   <!-- VS Code -->
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-  <!-- VS Code Insiders -->
-  <img src="https://api.iconify.design/mdi:microsoft-visual-studio-code.svg?color=%2324bfa5" width="48" height="48" alt="VS Code Insiders"/>
   <!-- GitHub -->
   <img src="https://cdn.simpleicons.org/github/888888" width="48" height="48" alt="GitHub"/>
   <!-- Git -->
@@ -60,8 +58,6 @@ I enjoy turning ideas into clean and interactive web experiences while continuou
   <img src="https://cdn.simpleicons.org/firefox" width="48" height="48" alt="Firefox"/>
   <!-- Claude -->
   <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude"/>
-  <!-- ChatGPT -->
-  <img src="https://api.iconify.design/ri:openai-fill.svg?color=%2374aa9c" width="48" height="48" alt="ChatGPT"/>
 </p>
 
 ## 📊 GitHub Stats
